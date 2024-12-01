@@ -43,6 +43,7 @@ public class b_tree {
                 queue.add(cur.right);
             }
         }
+
     }
     public static void main(String[] args) {
         b_tree n1=new b_tree(1);
