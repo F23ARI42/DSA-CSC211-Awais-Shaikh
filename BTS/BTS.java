@@ -26,7 +26,6 @@ public class BTS {
             }
         }
     }
-
     // Inorder traversal: left -> root -> right
     public void inorder(node root) {
         if (root == null) {
@@ -36,7 +35,6 @@ public class BTS {
         System.out.print(root.data + " ");
         inorder(root.right);
     }
-
     public static void main(String[] args) {
         BTS bts = new BTS();
         bts.insert(50);
