@@ -4,7 +4,7 @@ This repository contains solutions to Lab 1 exercises for the **CSC211: Data Str
 
 ## Task 1: Exercise 1
 - **Description**: This task implements [brief description of the task, e.g., a basic program demonstrating X concept].
-- **Code File**: [Task1Exercise1.java](Task1Exercise1.java)
+- **Code File**: [Task1Exercise1.java](task_1.java)
 - **Output**:
 
 ![Task 1 Exercise 1 Output](task1exercise1.Output.PNG)
