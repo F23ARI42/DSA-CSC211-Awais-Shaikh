@@ -1,4 +1,4 @@
-package binary_tree;
+package lab_8;
 
 public class Node {
     int data;

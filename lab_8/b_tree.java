@@ -1,4 +1,4 @@
-package binary_tree;
+package lab_8;
 import java.util.LinkedList;
 import java.util.Queue;
 public class b_tree {

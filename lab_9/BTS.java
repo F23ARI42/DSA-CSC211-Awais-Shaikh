@@ -1,4 +1,4 @@
-package BTS;
+package lab_9;
 public class BTS {
     node root;
     public void insert(int value) {

@@ -1,4 +1,4 @@
-package BTS;
+package lab_9;
 public class node {
     int data;
     node left;

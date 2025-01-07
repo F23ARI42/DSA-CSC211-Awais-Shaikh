@@ -1,4 +1,4 @@
-package Graph;
+package lab_11.part_1;
 
 public class grph {
     public static void main(String[] args) {

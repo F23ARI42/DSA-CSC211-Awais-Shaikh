@@ -1,4 +1,4 @@
-package Graph;
+package lab_11.part_2;
 public class Grapmatrix {
     public static void main(String[] args) {
         int vertices = 4;
