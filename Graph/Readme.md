@@ -148,12 +148,4 @@ Component 2: {4, 5}
 ## Code Snapshots
 Snapshots of the code output are provided to verify the correctness and functionality of the implemented solutions.
 
-## Conclusion
 
-This lab provided hands-on experience with graph data structures, including adjacency matrix representation, shortest path calculation, path enumeration, and connected component detection. By extending these tasks to weighted graphs, students developed a deeper understanding of graph algorithms and their applications.
-
----
-
-## Author
-
-This lab was completed by **Muhammad Irtaza Ali** as part of the course objectives in mastering graph data structures and algorithmic techniques.
